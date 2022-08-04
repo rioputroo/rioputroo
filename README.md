@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @rioputroo
-- 👀 I’m interested in front end technologies, although I've 5+ years experiences in PHP 👀 I just love to code ☕
+- 👀 I’m interested in front end technologies such as HTML, CSS, Javascript, Typescript. I just love to code ☕
 - 🌱 I’m currently learning front end web tech, JS frameworks, node js, graphql, improving web perf 
 - 💞️ I’m looking to collaborate on JS frameworks projects probably (currently Angular, React, Vue)
 - 📫 How to reach me : you can reach me at riotrilaksonop@gmail.com
